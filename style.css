@@ -190,5 +190,16 @@ p {
 }
 
 .github {
+    margin: 20px;
     text-align: center;
+}
+
+.carousel-item {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.carousel-inner {
+    margin: auto;
+    max-width: 80%;
 }
